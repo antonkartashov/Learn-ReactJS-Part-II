@@ -1,0 +1,12 @@
+body {
+    height: 100%;
+}
+.App {
+    display: block;
+    height: 100vh;
+}
+.Button {
+    font-size: 10pt;
+    color: 'red';
+    margin: 80px -70px 0 100px;
+}
