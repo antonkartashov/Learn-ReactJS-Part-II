@@ -1,6 +1,8 @@
 # Learn ReactJS: Part II
 https://codecademy.com/learn/react-102
 
+![React States](https://github.com/antonkartashov/Learn-ReactJS-Part-II/blob/master/src/React-States-Preview.gif)
+
 ```
 import React, {Component} from 'react'
 import './App.css'
