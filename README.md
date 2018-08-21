@@ -1,19 +1,21 @@
 # [Learn ReactJS: Part II](https://codecademy.com/learn/react-102)
 
-1 Stateless Components From Stateful Components
-* Child Components Update Their Parents' state
-* Child Components Update Their Siblings' props
+### 1 Stateless Components From Stateful Components
+Child Components Update Their Parents' state
+Child Components Update Their Siblings' props
 
-2 Advanced React
-* Style
-* Container Components From Presentational Components
-* Stateless Functional Components
-* PropTypes
-* React Forms
+### 2 Advanced React
+Style
+Container Components From Presentational Components
+Stateless Functional Components
+PropTypes
+React Forms
 
-3 Lifecycle Methods
-* Mounting Lifecycle Methods
-* Updating/Unmounting Lifecycle Methods
+### 3 Lifecycle Methods
+Mounting Lifecycle Methods
+Updating/Unmounting Lifecycle Methods
+
+---
 
 ```
 import React, {Component} from 'react'
