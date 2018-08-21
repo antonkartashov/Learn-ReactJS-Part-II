@@ -1,12 +1,7 @@
 # Learn ReactJS: Part II
 https://codecademy.com/learn/react-102
 
-![React States](https://github.com/antonkartashov/Learn-ReactJS-Part-II/blob/master/src/React-States.gif)
-
 ```
-import React, {Component} from 'react'
-import './App.css'
-
 class Button extends Component {
     static get defaultProps() {
         return {color: 'red'}
@@ -22,7 +17,11 @@ class Button extends Component {
         )
     }
 }
+```
 
+![React States](https://github.com/antonkartashov/Learn-ReactJS-Part-II/blob/master/src/React-States.gif)
+
+```
 class App extends Component {
     constructor(props) {
         super(props)
