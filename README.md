@@ -1,4 +1,5 @@
-# [Learn ReactJS: Part II](https://codecademy.com/learn/react-102)
+# Learn ReactJS: Part II
+https://codecademy.com/learn/react-102
 
 ```
 import React, {Component} from 'react'
