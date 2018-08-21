@@ -1,4 +1,4 @@
-# [Learn React, Pt. 2](https://codecademy.com/learn/react-102) (Codeacademy)
+# [Learn ReactJS: Part II](https://codecademy.com/learn/react-102)
 
 1 Stateless Components From Stateful Components
 * Child Components Update Their Parents' state
